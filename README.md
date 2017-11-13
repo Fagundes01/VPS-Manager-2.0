@@ -1,0 +1,2 @@
+# VPS-Manager-2.0
+Scripts para VPS e Cloud  O que são esses scripts?  Esses scripts são pequenos programas executáveis escritos em linguagem shell script para simplificar ou automatizar tarefas em servidores VPS, Cloud ou Dedicado que rodem as distribuições Linux Debian e Ubuntu. Alguns deles também podem funcionar com o CentOS.
